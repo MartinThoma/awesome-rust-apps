@@ -14,5 +14,7 @@
 
 Did I miss something? Please open a PR!
 
-Apps need to have at least 1000 stars on Github. If the project is not on Github,
-I'll consider it on a case-by-case basis.
+* Apps need to have at least 1000 stars on Github. If the project is not on
+  Github, I'll consider it on a case-by-case basis.
+* Best of its kind: If there are multiple apps in the same category, I'll take
+  "the best" one. That will most likely be the most popular one by Github stars.
