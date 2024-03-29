@@ -7,3 +7,8 @@
 * [starship](https://starship.rs/) ([source](https://github.com/starship/starship)): shell prompt
 * [uv](https://github.com/astral-sh/uv): Python package installer, replaces pip / pip-tools
 * [zenith](https://github.com/bvaisvil/zenith): `htop` clone
+
+Did I miss something? Please open a PR!
+
+Apps need to have at least 1000 stars on Github. If the project is not on Github,
+I'll consider it on a case-by-case basis.
