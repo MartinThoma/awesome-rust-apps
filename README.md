@@ -2,6 +2,7 @@
 
 * [bat](https://github.com/sharkdp/bat): `cat` clone with syntax highlighting
 * [eza](https://github.com/eza-community/eza): `ls` clone
+* [gping](https://github.com/orf/gping): `ping` clone with a graph
 * [ripgrep](https://github.com/BurntSushi/ripgrep): `grep` clone
 * [ruff](https://github.com/astral-sh/ruff): `black` / `flake8` replacement
 * [starship](https://starship.rs/) ([source](https://github.com/starship/starship)): shell prompt
