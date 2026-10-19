@@ -5,6 +5,7 @@
 * [difftastic](https://github.com/Wilfred/difftastic): A structural diff tool
 * [eza](https://github.com/eza-community/eza): `ls` clone
 * [fd](https://github.com/sharkdp/fd): `find` clone
+* [Glim](https://github.com/NeoPanic/Glim): MIT-licensed macOS file viewer with Markdown, source code, PDF/data previews and basic UTF-8 text editing.
 * [gping](https://github.com/orf/gping): `ping` clone with a graph
 * [ripgrep](https://github.com/BurntSushi/ripgrep): `grep` clone
 * [ruff](https://github.com/astral-sh/ruff): `black` / `flake8` replacement
